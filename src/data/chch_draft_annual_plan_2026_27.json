@@ -1,0 +1,447 @@
+{
+  "source": "Christchurch City Council Draft Annual Plan 2026/27",
+  "currency": "NZD $000",
+  "operational_expenditure_by_activity": {
+    "Communities & Citizens": {
+      "annual_plan_2025_26": 221957,
+      "annual_plan_2026_27": 222835,
+      "long_term_plan_2026_27": 237113,
+      "variance_to_ltp": 14278
+    },
+    "Economic Development": {
+      "annual_plan_2025_26": 17988,
+      "annual_plan_2026_27": 20790,
+      "long_term_plan_2026_27": 16598,
+      "variance_to_ltp": -4192
+    },
+    "Flood Protection & Control Works": {
+      "annual_plan_2025_26": 8454,
+      "annual_plan_2026_27": 8247,
+      "long_term_plan_2026_27": 9133,
+      "variance_to_ltp": 886
+    },
+    "Governance": {
+      "annual_plan_2025_26": 22066,
+      "annual_plan_2026_27": 21313,
+      "long_term_plan_2026_27": 20565,
+      "variance_to_ltp": -748
+    },
+    "Housing": {
+      "annual_plan_2025_26": 20833,
+      "annual_plan_2026_27": 20046,
+      "long_term_plan_2026_27": 20813,
+      "variance_to_ltp": 767
+    },
+    "Parks, Heritage and Coastal Environment": {
+      "annual_plan_2025_26": 112158,
+      "annual_plan_2026_27": 106688,
+      "long_term_plan_2026_27": 119629,
+      "variance_to_ltp": 12941
+    },
+    "Regulatory & Compliance": {
+      "annual_plan_2025_26": 72000,
+      "annual_plan_2026_27": 70674,
+      "long_term_plan_2026_27": 75292,
+      "variance_to_ltp": 4618
+    },
+    "Solid Waste & Resource Recovery": {
+      "annual_plan_2025_26": 75222,
+      "annual_plan_2026_27": 76534,
+      "long_term_plan_2026_27": 91283,
+      "variance_to_ltp": 14749
+    },
+    "Stormwater Drainage": {
+      "annual_plan_2025_26": 69029,
+      "annual_plan_2026_27": 73643,
+      "long_term_plan_2026_27": 74300,
+      "variance_to_ltp": 657
+    },
+    "Strategic Planning & Policy": {
+      "annual_plan_2025_26": 21906,
+      "annual_plan_2026_27": 23482,
+      "long_term_plan_2026_27": 22227,
+      "variance_to_ltp": -1255
+    },
+    "Transport": {
+      "annual_plan_2025_26": 210618,
+      "annual_plan_2026_27": 213802,
+      "long_term_plan_2026_27": 224770,
+      "variance_to_ltp": 10968
+    },
+    "Wastewater": {
+      "annual_plan_2025_26": 176712,
+      "annual_plan_2026_27": 184926,
+      "long_term_plan_2026_27": 195073,
+      "variance_to_ltp": 10147
+    },
+    "Water Supply": {
+      "annual_plan_2025_26": 113463,
+      "annual_plan_2026_27": 116519,
+      "long_term_plan_2026_27": 119273,
+      "variance_to_ltp": 2754
+    },
+    "Corporate": {
+      "annual_plan_2025_26": 97792,
+      "annual_plan_2026_27": 121227,
+      "long_term_plan_2026_27": 97680,
+      "variance_to_ltp": -23547
+    },
+    "_totals": {
+      "total_group_of_activity_expenditure": {
+        "annual_plan_2025_26": 1240198,
+        "annual_plan_2026_27": 1280726,
+        "long_term_plan_2026_27": 1323749,
+        "variance_to_ltp": 43023
+      },
+      "less_depreciation_non_cash": {
+        "annual_plan_2025_26": 368850,
+        "annual_plan_2026_27": 412325,
+        "long_term_plan_2026_27": 420196,
+        "variance_to_ltp": 7871
+      },
+      "less_interest_expense": {
+        "annual_plan_2025_26": 134516,
+        "annual_plan_2026_27": 154315,
+        "long_term_plan_2026_27": 133061,
+        "variance_to_ltp": -21254
+      },
+      "operating_expenditure_net": {
+        "annual_plan_2025_26": 736832,
+        "annual_plan_2026_27": 714086,
+        "long_term_plan_2026_27": 770492,
+        "variance_to_ltp": 56406
+      }
+    }
+  },
+  "capital_programme_summary": {
+    "Communities and Citizens": {
+      "activities": {
+        "Akaroa Museum": {
+          "driver": "Replace Existing Assets",
+          "current_budget_2026_27": 93,
+          "proposed_budget_2026_27": 93,
+          "budget_change_2026_27": 0
+        },
+        "Christchurch Art Gallery": {
+          "drivers": [
+            "Improve Level of Service",
+            "Meet Additional Demand",
+            "Replace Existing Assets"
+          ],
+          "current_budget_2026_27": 2411,
+          "proposed_budget_2026_27": 2411,
+          "budget_change_2026_27": -21
+        },
+        "Christchurch City Libraries": {
+          "drivers": [
+            "Meet Additional Demand",
+            "Replace Existing Assets"
+          ],
+          "current_budget_2026_27": 20619,
+          "proposed_budget_2026_27": 20619,
+          "budget_change_2026_27": -38
+        },
+        "Community Development and Facilities": {
+          "drivers": [
+            "Improve Level of Service",
+            "Replace Existing Assets"
+          ],
+          "current_budget_2026_27": 5587,
+          "proposed_budget_2026_27": 5587,
+          "budget_change_2026_27": -8
+        },
+        "Emergency Management & Community Resilience": {
+          "drivers": [
+            "Improve Level of Service",
+            "Replace Existing Assets"
+          ],
+          "current_budget_2026_27": 1123,
+          "proposed_budget_2026_27": 1123,
+          "budget_change_2026_27": -1
+        },
+        "Recreation, Sports, Comm Arts & Events": {
+          "drivers": [
+            "Improve Level of Service",
+            "Meet Additional Demand",
+            "Replace Existing Assets"
+          ],
+          "current_budget_2026_27": 25364,
+          "proposed_budget_2026_27": 20290,
+          "budget_change_2026_27": -5073
+        }
+      },
+      "goa_total": {
+        "current_budget_2026_27": 55198,
+        "proposed_budget_2026_27": 50124,
+        "budget_change_2026_27": -5073
+      }
+    },
+    "Corporate Capital": {
+      "activities": {
+        "Corporate Capital": {
+          "driver": "Improve Level of Service",
+          "current_budget_2026_27": 11947,
+          "proposed_budget_2026_27": 11947,
+          "budget_change_2026_27": 0
+        }
+      },
+      "goa_total": {
+        "current_budget_2026_27": 11947,
+        "proposed_budget_2026_27": 11947,
+        "budget_change_2026_27": 0
+      }
+    },
+    "Flood Protection & Control Works": {
+      "activities": {
+        "Flood Protection & Control Works": {
+          "drivers": [
+            "Improve Level of Service",
+            "Meet Additional Demand",
+            "Replace Existing Assets"
+          ],
+          "current_budget_2026_27": 17399,
+          "proposed_budget_2026_27": 12309,
+          "budget_change_2026_27": -5090
+        }
+      },
+      "goa_total": {
+        "current_budget_2026_27": 17399,
+        "proposed_budget_2026_27": 12309,
+        "budget_change_2026_27": -5090
+      }
+    },
+    "Housing": {
+      "activities": {
+        "Community Housing": {
+          "driver": "Replace Existing Assets",
+          "current_budget_2026_27": 6343,
+          "proposed_budget_2026_27": 6343,
+          "budget_change_2026_27": 0
+        }
+      },
+      "goa_total": {
+        "current_budget_2026_27": 6343,
+        "proposed_budget_2026_27": 6343,
+        "budget_change_2026_27": 0
+      }
+    },
+    "Internal Activities": {
+      "activities": {
+        "Corporate Capital (Internal)": {
+          "drivers": [
+            "Improve Level of Service"
+          ],
+          "current_budget_2026_27": 2500,
+          "proposed_budget_2026_27": 2000,
+          "budget_change_2026_27": -2500
+        },
+        "Digital": {
+          "drivers": [
+            "Improve Level of Service",
+            "Replace Existing Assets"
+          ],
+          "current_budget_2026_27": 7130,
+          "proposed_budget_2026_27": 7130,
+          "budget_change_2026_27": 0
+        },
+        "Facilities, Property & Planning": {
+          "drivers": [
+            "Improve Level of Service",
+            "Replace Existing Assets"
+          ],
+          "current_budget_2026_27": 9985,
+          "proposed_budget_2026_27": 9985,
+          "budget_change_2026_27": 0
+        },
+        "Technical Services & Design": {
+          "driver": "Replace Existing Assets",
+          "current_budget_2026_27": 77,
+          "proposed_budget_2026_27": 77,
+          "budget_change_2026_27": 0
+        }
+      },
+      "goa_total": {
+        "current_budget_2026_27": 19692,
+        "proposed_budget_2026_27": 17192,
+        "budget_change_2026_27": -2500
+      }
+    },
+    "Parks, Heritage and Coastal Environment": {
+      "activities": {
+        "Parks & Foreshore": {
+          "drivers": [
+            "Improve Level of Service",
+            "Meet Additional Demand",
+            "Replace Existing Assets"
+          ],
+          "current_budget_2026_27": 91500,
+          "proposed_budget_2026_27": 86105,
+          "budget_change_2026_27": -5396
+        },
+        "Parks Heritage Management": {
+          "driver": "Replace Existing Assets",
+          "current_budget_2026_27": 7584,
+          "proposed_budget_2026_27": 2621,
+          "budget_change_2026_27": -4963
+        }
+      },
+      "goa_total": {
+        "current_budget_2026_27": 99084,
+        "proposed_budget_2026_27": 88726,
+        "budget_change_2026_27": -10359
+      }
+    },
+    "Regulatory and Compliance": {
+      "activities": {
+        "Regulatory Compliance & Licensing": {
+          "driver": "Replace Existing Assets",
+          "current_budget_2026_27": 36,
+          "proposed_budget_2026_27": 36,
+          "budget_change_2026_27": 0
+        }
+      },
+      "goa_total": {
+        "current_budget_2026_27": 36,
+        "proposed_budget_2026_27": 36,
+        "budget_change_2026_27": 0
+      }
+    },
+    "Solid Waste & Resource Recovery": {
+      "activities": {
+        "Solid Waste & Resource Recovery": {
+          "drivers": [
+            "Improve Level of Service",
+            "Replace Existing Assets"
+          ],
+          "current_budget_2026_27": 32341,
+          "proposed_budget_2026_27": 7929,
+          "budget_change_2026_27": -24412
+        }
+      },
+      "goa_total": {
+        "current_budget_2026_27": 32341,
+        "proposed_budget_2026_27": 7929,
+        "budget_change_2026_27": -24412
+      }
+    },
+    "Stormwater Drainage": {
+      "activities": {
+        "Stormwater Drainage": {
+          "drivers": [
+            "Improve Level of Service",
+            "Meet Additional Demand",
+            "Replace Existing Assets"
+          ],
+          "current_budget_2026_27": 84377,
+          "proposed_budget_2026_27": 47510,
+          "budget_change_2026_27": -36867
+        }
+      },
+      "goa_total": {
+        "current_budget_2026_27": 84377,
+        "proposed_budget_2026_27": 47510,
+        "budget_change_2026_27": -36867
+      }
+    },
+    "Strategic Planning and Policy": {
+      "activities": {
+        "Strategic Planning & Resource Consents": {
+          "drivers": [
+            "Improve Level of Service",
+            "Replace Existing Assets"
+          ],
+          "current_budget_2026_27": 801,
+          "proposed_budget_2026_27": 801,
+          "budget_change_2026_27": -2
+        }
+      },
+      "goa_total": {
+        "current_budget_2026_27": 801,
+        "proposed_budget_2026_27": 801,
+        "budget_change_2026_27": -2
+      }
+    },
+    "Transport": {
+      "activities": {
+        "Transport Access": {
+          "drivers": [
+            "Improve Level of Service",
+            "Meet Additional Demand",
+            "Replace Existing Assets"
+          ],
+          "current_budget_2026_27": 124514,
+          "proposed_budget_2026_27": 109385,
+          "budget_change_2026_27": -15129
+        },
+        "Transport Environment": {
+          "drivers": [
+            "Improve Level of Service",
+            "Meet Additional Demand",
+            "Replace Existing Assets"
+          ],
+          "current_budget_2026_27": 31877,
+          "proposed_budget_2026_27": 19284,
+          "budget_change_2026_27": -12593
+        },
+        "Transport Safety": {
+          "drivers": [
+            "Improve Level of Service",
+            "Meet Additional Demand",
+            "Replace Existing Assets"
+          ],
+          "current_budget_2026_27": 18437,
+          "proposed_budget_2026_27": 13508,
+          "budget_change_2026_27": -4928
+        }
+      },
+      "goa_total": {
+        "current_budget_2026_27": 174828,
+        "proposed_budget_2026_27": 142177,
+        "budget_change_2026_27": -32650
+      }
+    },
+    "Wastewater": {
+      "activities": {
+        "Wastewater": {
+          "drivers": [
+            "Improve Level of Service",
+            "Meet Additional Demand",
+            "Replace Existing Assets"
+          ],
+          "current_budget_2026_27": 54816,
+          "proposed_budget_2026_27": 47509,
+          "budget_change_2026_27": -21405
+        }
+      },
+      "goa_total": {
+        "current_budget_2026_27": 54816,
+        "proposed_budget_2026_27": 47509,
+        "budget_change_2026_27": -21405
+      }
+    },
+    "Water Supply": {
+      "activities": {
+        "Water Supply": {
+          "drivers": [
+            "Improve Level of Service",
+            "Meet Additional Demand",
+            "Replace Existing Assets"
+          ],
+          "current_budget_2026_27": 112636,
+          "proposed_budget_2026_27": 78939,
+          "budget_change_2026_27": -33698
+        }
+      },
+      "goa_total": {
+        "current_budget_2026_27": 112636,
+        "proposed_budget_2026_27": 78939,
+        "budget_change_2026_27": -33698
+      }
+    },
+    "_grand_total": {
+      "current_budget_2026_27": 790391,
+      "proposed_budget_2026_27": 598901,
+      "budget_change_2026_27": -191489
+    }
+  }
+}
